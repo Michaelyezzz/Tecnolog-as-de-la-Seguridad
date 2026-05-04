@@ -4,7 +4,7 @@ import socket
 import os
 from datetime import datetime
 
-IP_DESTINO    = "192.168.x.x"
+IP_DESTINO    = "192.168.100.5"
 PUERTO        = 9999
 ARCHIVO_LOG   = "output.txt"
 
